@@ -12,3 +12,37 @@
   <img src="https://komarev.com/ghpvc/?username=prAleksa&style=flat-square&color=blue" alt="Profile Views Counter"/>
 </div>
 
+<div id="heythere" align="center"> 
+  <h1> Профиль на GITHUB </h1> 
+</div>
+
+### 👩‍💻 Обо мне :
+
+- ⛹️‍♂️ important fact
+- 🐷 смешной свин
+- 💸 вот это я люблю
+
+### 🛠️ Языки и инструменты :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
+</div>
+
+### 🏆 Достижения :
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=prAleksa" alt="GitHub Trophies"/>
+</div>
+
+### ⌨️ Наиболее используемые языки :
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prAleksa" alt=""/>
+</div>
+
+### 📊 Статистика активности :
+
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prAleksa&theme=dracula" alt="GitHub Activity Graph"/>
+</div>
